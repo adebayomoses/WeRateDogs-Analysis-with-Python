@@ -8,6 +8,6 @@ WeRateDogs is a Twitter account that rates people's dogs with a humorous comment
 # Gathering
 The first dataset was downloaded directly.
 
-The second dataset was downloaded programmatically using python's request library.
+The second dataset was downloaded programmatically using Python's request library.
 
-The third dataset was extracted from tweeter. i found 11 Quality issues and 4 tidiness issue which was documented.In this project, three datasets was used in this project.
+The third dataset was extracted from Twitter. I found 11 Quality issues and 4 tidiness issues which were documented. In this project, three datasets were used in this project.
